@@ -23,3 +23,5 @@ int main() {
                  break;
         default : printf("Not a valid day\n");
     }
+return 0;
+}
